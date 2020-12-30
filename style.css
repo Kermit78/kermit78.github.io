@@ -1,0 +1,112 @@
+
+
+body {
+	margin: 0;
+	padding: 0;	
+	background-image: url('https://images.unsplash.com/photo-1519638399535-1b036603ac77?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family: helvetica;
+	height: 100%
+
+}
+.rules-and-staff-body {
+	border: 2px solid gray;
+	border-radius: 5px;
+	background-color: gray;
+	width: 600px;
+	margin-left: 350px;
+}
+header {
+
+	margin: 5px 10px;
+
+	color: white;
+	background: #333;
+
+	border-radius: 2px;
+
+
+}
+
+/* this means only items inside header will be affected */
+
+header ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: block;
+
+}
+
+
+header li {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+
+header a {
+	padding: 20px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+}
+
+
+.article {
+	border: 2px solid green;
+	border-radius: 5px;
+	background-color: green;
+	width: 500px;
+}
+
+header a:hover {
+    background-color: #111;
+    text-align: center;
+}
+
+
+
+main {
+	text-align: center;
+	color: white;
+}
+
+#welcome-msg {
+	background: #D193FC;
+	display: inline-block;
+	opacity: 0.8;
+	padding: 5px 10px;
+	margin: 2px;
+	border-radius: 10px;
+	color: black;
+}
+
+
+
+
+
+
+/* common rules */
+
+a {
+	display: inline-block;
+}
+
+
+.button {
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+	margin: 2px;
+	background: #D193FC;
+
+}
+
+.button:hover {
+	background: #A165CA;
+}
+

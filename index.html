@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Weebs Pub | Home</title>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+      <li id="weebs-pub-logo"><a href="index.html">Weebs Pub</a></li>
+      <li><a href="https://discord.gg/JDADJDBZ6s" target="_blank">Discord</a></li>
+      <li><a href="rules.html">Rules</a></li>
+      <li><a href="hall-of-fame.html">Hall of Fame</a></li>
+      <li><a href="https://discordhub.com/shop/744209392056139938" target="_blank">Shop</a></li>
+    </header>
+    <br><br>
+    <main>
+      <div id="welcome-msg">
+        <h1>Welcome to Weebs Pub</h1>
+        <h3>Find new friends and laugh together.</h3>
+      </div>
+      <br><br>
+      <div>
+        <a class="button" href="https://discord.gg/JDADJDBZ6s">Server invite</a>
+        <a class="button" href="https://discordhub.com/ranking/744209392056139938" target="_blank" id="user-list">Leaderboard</a>
+      </div>
+    </main>
+  </body>
+</html>
